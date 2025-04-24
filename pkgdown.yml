@@ -1,0 +1,9 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  package_vignette: package_vignette.html
+last_built: 2025-04-24T17:40Z
+urls:
+  reference: https://nick-2003.github.io/package20250424/reference
+  article: https://nick-2003.github.io/package20250424/articles
